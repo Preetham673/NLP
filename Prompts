@@ -1,0 +1,5 @@
+What is word vectorization and why is it important in sentiment analysis?
+How do Bag of Words and TF-IDF work for text representation?
+How can sentiment analysis be implemented using BoW, TF-IDF, and N-grams?
+What evaluation metrics are best for measuring sentiment classification performance?
+What are the trade-offs between accuracy and computational cost in different vectorization methods?
